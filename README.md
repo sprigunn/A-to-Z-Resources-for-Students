@@ -1111,26 +1111,26 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 ## 14.2 Podcasts
 
 - **Technology**
-    - Code Newbie
-    - The Bike Shed
-    - Soft Skills Engineering
-    - Programming Throwdown
-    - Hanselminutes
+    - [Code Newbie](https://www.codenewbie.org/)
+    - [The Bike Shed](https://www.bikeshed.fm/)
+    - [Soft Skills Engineering](https://softskills.audio/)
+    - [Programming Throwdown](https://www.programmingthrowdown.com/)
+    - [Hanselminutes](https://hanselminutes.com/)
 - **Startup and Entrepreneurship**
     - StartUp
-    - How I Built This
-    - The Pitch
-    - The Growth Show
-    - Scrum master toolbox
+    - [How I Built This](https://www.npr.org/series/490248027/how-i-built-thisSearch)
+    - [The Pitch](https://gimletmedia.com/shows/the-pitch)
+    - [The Growth Show](https://podcasts.apple.com/au/podcast/the-growth-show/id963131164)
+    - [Scrum master toolbox](https://scrum-master-toolbox.org/)
 - **Life**
-    - Unf*ck your brain
-    - By the Book
-    - Strength and Scotch
-    - Happier with Gretchen Rubin
-    - The Minimalists
+    - [Unf*ck your brain](https://open.spotify.com/show/3Zq2XDpVrtadTR1xOfzhzo)
+    - [By the Book](https://bythebookpod.com/)
+    - [Strength and Scotch](https://www.strengthandscotch.com/)
+    - [Happier with Gretchen Rubin](https://gretchenrubin.com/podcasts/)
+    - [The Minimalists](https://www.theminimalists.com/podcast/)
 - **Other**
-    - Tracks to Relax
-    - Unladylike
+    - [Tracks to Relax](https://www.trackstorelax.com/)
+    - [Unladylike](https://unladylike.co/)
 
 ## 15. Created and Maintained By
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
